@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Member_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "students",
+                "staff",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "3-c-1",
-  "title": "Health worker density and distribution"
+  "title": "global_indicators.3-c-1-title"
 }

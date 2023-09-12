@@ -12,12 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Member_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Students",
+                "Staff",
+                ""
+              ]
+            },
+            "title": "Member Type"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-c-1",
-  "title": "Health worker density and distribution"
+  "title": "People from the University of Applied Sciences taking part into Sykettä sport services"
 }

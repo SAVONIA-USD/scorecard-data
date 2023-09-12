@@ -1,0 +1,35 @@
+# required
+SDG_GOAL: >-
+  global_goals.4-title
+
+# required
+SDG_TARGET: >-
+  global_targets.4-3-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.4-3-3-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  Savonia University of Applied Sciences
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.percentage
+
+# optional
+DATA_COMP: >-
+  The share of those who completed their degree in a time corresponding to the scope of the degree out of all those who completed degree
+
+# optional
+COVERAGE: >-

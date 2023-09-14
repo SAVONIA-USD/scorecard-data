@@ -1,4 +1,4 @@
-Year,Study_level,Value
-2023,,2855
-2023,bachelor,1940
-2023,master,915
+Year,Study_level,Series,Value
+2023,,Total,2855
+2023,bachelor,dissagregated,1940
+2023,master,dissagregated,915

@@ -1,10 +1,13 @@
-Year: Year
+# Column names
 Sex: Sex
+Member_type: Member type
+Study_level: Study level
+# Serie names
+disaggregated: Disaggregated
+# Disaggregation names
 men: Men
 women: Women
-Member_Type: Member Type
 students: Students
 staff: Staff
-Study_level: Study Level
 bachelor: Bachelor
 master: Master

@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.percentage
+  Unavailable
 
 DATA_COMP: >-
   Food waste index, %

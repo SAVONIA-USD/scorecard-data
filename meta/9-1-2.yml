@@ -29,7 +29,7 @@ UNIT_MEASURE: >-
 
 # optional
 DATA_COMP: >-
-  The report is unavailable.
+  The report is unavailable
 
 # optional
 COVERAGE: >-

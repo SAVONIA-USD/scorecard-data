@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Member_Type",
+            "name": "Member_type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,19 @@
                 ""
               ]
             },
-            "title": "Member Type"
+            "title": "Member type"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

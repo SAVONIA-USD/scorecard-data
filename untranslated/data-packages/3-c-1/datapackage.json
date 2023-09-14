@@ -12,15 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Member_Type",
+            "name": "Member_type",
             "type": "string",
             "constraints": {
               "enum": [
                 "students",
                 "staff",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "disaggregated",
                 ""
               ]
             }

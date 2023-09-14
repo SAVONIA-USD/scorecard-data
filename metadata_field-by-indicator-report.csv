@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #2-4-1,complete,,,,,units.co2,bar
-#2-4-2,notstarted,,,,,Unavailable,bar
+#2-4-2,notstarted,,,,,units.unavailable,bar
 #3-c-1,complete,,,,,units.total_number,bar
 #3-c-2,complete,,,,,units.gptw_index,bar
 #4-3-1,complete,,,,,units.total_number,bar

@@ -25,7 +25,19 @@
                 ""
               ]
             },
-            "title": "Study Level"
+            "title": "Study level"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "dissagregated",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

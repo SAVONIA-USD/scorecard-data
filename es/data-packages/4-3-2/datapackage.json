@@ -28,6 +28,18 @@
             "title": "Study_level"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

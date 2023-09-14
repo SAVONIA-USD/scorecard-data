@@ -1,8 +1,7 @@
 Value,Number of indicators
-Unavailable,1
 units.co2,1
 units.customer_satisfaction,1
 units.gptw_index,1
 units.percentage,1
 units.total_number,10
-units.unavailable,1
+units.unavailable,2

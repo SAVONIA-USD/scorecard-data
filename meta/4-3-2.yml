@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.percentage
+  units.total_number
 
 # optional
 DATA_COMP: >-

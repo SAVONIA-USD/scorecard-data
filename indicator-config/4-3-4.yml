@@ -58,8 +58,11 @@ permalink: ''
 precision: []
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
 progress_status: not_available
+# optional. List of related indicators if any
+related_indicators: []
 # optional. List of related targets if any
-related_indicators: [4.5']
+related_targets:
+  - { goal_number: '4', goal_name: global_goals.4-short, number: '4.5', name: global_targets.4-5-title }
 # required. Options: complete, notstarted, notapplicable
 reporting_status: complete
 # optional

@@ -1,0 +1,42 @@
+cookie_settings: Evästeasetukset
+all_required_notice: Jotta tämä palvelu toimii, käytämme joitakin välttämättömiä evästeitä. Niiden on oltava aina päällä.
+all_required_ok: OK
+acceptAll: Hyväksy kaikki
+acceptSelected: Hyväksy valitut
+close: Sulje
+consentModal_description: Täällä voit valita, mitä evästeitä haluat meidän käyttävän.
+consentModal_title: Evästeasetukset
+consentNotice_changeDescription: Tällä sivustolla käytetyt evästeet ovat muuttuneet edellisen vierailusi jälkeen, uusi suostumuksesi.
+consentNotice_description: Käytämme joitakin välttämättömiä evästeitä, jotta tämä palvelu toimii. Haluaisimme myös käyttää {tarkoitukset}, jotta voimme ymmärtää, miten käytät palvelua ja tehdä parannuksia.
+consentNotice_learnMore: Näytä evästeet
+consentNotice_testing: Testaustila!
+contextualConsent_acceptAlways: Aina
+contextualConsent_acceptOnce: 'Kyllä'
+contextualConsent_description: Haluatko ladata ulkoista sisältöä, jonka tarjoaa {nimi}?
+decline: Hylkää lisäevästeet
+ok: Hyväksy lisäevästeet
+poweredBy: Toteutettu Klaron kanssa!
+privacyPolicy_name: Tietosuojakäytäntö
+privacyPolicy_text: Saat lisätietoja lukemalla tietosuojakäytäntömme.
+purposeItem_service: palvelu
+purposeItem_services: palvelut
+purposes_functional_description: Välttämättömät evästeet pitävät tietosi turvassa ja muistavat esimerkiksi mieltymyksesi ja valinnat, jotka teet käyttäessäsi verkkosivustoa. Niiden on oltava aina päällä.
+purposes_functional_title: Välttämättömät evästeet
+purposes_performance_description: Nämä palvelut käsittelevät henkilötietoja tämän verkkosivuston tarjoaman palvelun optimoimiseksi.
+purposes_performance_title: Suorituskyvyn optimointi
+purposes_analytics_description: Nämä palvelut keräävät tietoja siitä, miten käytät verkkosivustoa. Käytämme näitä tietoja tehdäksemme sivusta paremman.
+purposes_analytics_title: Analytiikkaevästeet
+save: Tallenna
+service_disableAll_description: Tällä kytkimellä voit ottaa kaikki palvelut käyttöön tai poistaa ne käytöstä.
+service_disableAll_title: Ota kaikki palvelut käyttöön tai poista ne käytöstä
+service_optOut_description: Tämä palvelu ladataan oletuksena (mutta voit kieltäytyä)
+service_optOut_title: (kieltäydy)
+service_purpose: tarkoitus
+service_purposes: tarkoitukset
+service_required_description: Tämä palvelu vaaditaan aina.
+service_required_title: (aina vaadittu)
+contrast_description: Esteettömyyspalvelujen aktiivinen tila säilyy.
+contrast_title: Esteettömyystila
+google_analytics_description: Kerää tietoja sivuvierailuista Google Analyticsin avulla
+google_analytics_title: Google Analytics
+cookie_settings_description: Tallentaa evästeiden suostumusasetuksesi

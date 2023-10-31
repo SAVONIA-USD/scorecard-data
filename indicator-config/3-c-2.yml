@@ -50,7 +50,7 @@ indicator_name: global_indicators.3-c-2-title
 # required
 indicator_number: '3.c.2'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: units.total
 # optional
 page_content: ''
 # optional

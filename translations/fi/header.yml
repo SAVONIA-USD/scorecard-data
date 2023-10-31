@@ -1,0 +1,22 @@
+skip_link: Siirry pääsisältöön
+# This word identifies a software or web project as being in the early stages of development
+alpha: Alpha
+disclaimer: Tämä on kehityssivusto. Toivotamme tervetulleeksi
+  <a href="mailto:%email_contacts.suggestions">feedback</a>.
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: 17 tavoitetta maailman muuttamiseksi
+high_contrast: Korkea kontrasti
+default_contrast: Oletuskontrasti
+enable_high_contrast: Ota suuri kontrasti käyttöön
+disable_high_contrast: Poista korkea kontrasti käytöstä
+toggle_search: Haun kytkin. Napsauta laajentaaksesi tai kutistaaksesi hakupalkkia.
+toggle_menu: Valikon vaihto. Laajenna tai kutista valikko napsauttamalla.
+internet_explorer_message_title: Tätä Internet-selainta ei enää tueta
+internet_explorer_message: Olemme havainneet, että käytät Internet Exploreria vieraillaksesi tällä sivustolla.
+  Microsoft on nyt poistamassa Internet Explorerin käytöstä. Tämän seurauksena tämä sivusto ei enää tue mitään 
+  Internet Explorerin versiota. Jotkut tämän sivuston ominaisuudet eivät toimi. Käytä nykyaikaista selainta, 
+  kuten Edge, Chromea, Firefoxia tai Safaria. Jos sinulla on vaikeuksia toisen selaimen asentamisessa tai 
+  käyttäminen, ota yhteyttä IT-tukitiimiisi.
+show_menu: Näytä navigointivalikko
+hide_menu: Piilota navigointivalikko
+logo_title: Mene kotisivulle

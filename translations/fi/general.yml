@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: Indikaattori
+# This is the plural version of the indicator key
+indicators: Indikaattorit
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: Tavoite
+# This is the plural version of the goal key
+goals: Tavoitteet
+sdg: Kestävän kehityksen tavoitteet
+# This refers to the 'home page' of a website
+home: Koti
+loading: Ladataan hakutuloksia
+opens_new_window: avautuu uudesssa ikkunassa
+hide: piilota
+target: Alatavoite
+targets: Alatavoitteet
+twitter: Twitter
+facebook: Facebook
+built_using_open_sdg: Rakennettu Open SDG:llä
+page: Sivu
+pages: Sivut
+targets_and_indicators: Alatavoitteet ja indikaattorit
+# A label of "Warning" to place before some other text.
+label_warning: "Varoitus:"
+# A phrase to use as a site-wide page title.
+site_title: Kestävän kehityksen tavoitteiden indikaattorit
+back_to_top: Takaisin ylös

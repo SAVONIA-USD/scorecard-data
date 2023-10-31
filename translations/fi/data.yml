@@ -1,0 +1,14 @@
+# Column names
+Year: Vuosi
+Sex: Sukupuoli
+Member_Type: Jäsentyyppi
+Study_level: Koulutustaso
+# Serie names
+disaggregated: Disaggregated
+# Disaggregation names
+men: Miehet
+women: Naiset
+students: Opiskelijat
+staff: Henkilökunta
+bachelor: AMK
+master: YAMK

@@ -1,0 +1,150 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: Muita tietoja
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: Laskelmat
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: Määritelmät
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: Mittayksikkö
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: Linkki YK:n metatietoihin
+# A label describing information - the numeric code for a particular indicator
+indicator: Indikaattorin numero
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: Globaali indikaattorin kuvaus
+# A label describing information - the name of a particular indicator
+indicator_name: Indikaattorin numero
+indicator_sort_order: Indikaattorin näyttöjärjestys (within Goal page)
+national_data_update_url: Tiedot päivitetty viimeksi
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: Maantieteellinen kattavuus
+national_indicator_available: Indikaattori saatavilla
+national_indicator_description: Indikaattorin kuvaus
+national_metadata_update_url: Metadata päivitetty viimeksi
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: Yhteystiedot
+source_contact_2: Yhteystiedot
+source_contact_3: Yhteystiedot
+source_contact_4: Yhteystiedot
+source_contact_5: Yhteystiedot
+source_contact_6: Yhteystiedot
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: Varhaisimmat saatavilla olevat tiedot
+source_earliest_available_2: Varhaisimmat saatavilla olevat tiedot
+source_earliest_available_3: Varhaisimmat saatavilla olevat tiedot
+source_earliest_available_4: Varhaisimmat saatavilla olevat tiedot
+source_earliest_available_5: Varhaisimmat saatavilla olevat tiedot
+source_earliest_available_6: Varhaisimmat saatavilla olevat tiedot
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: Maantieteellinen kattavuus
+source_geographical_coverage_2: Maantieteellinen kattavuus
+source_geographical_coverage_3: Maantieteellinen kattavuus
+source_geographical_coverage_4: Maantieteellinen kattavuus
+source_geographical_coverage_5: Maantieteellinen kattavuus
+source_geographical_coverage_6: Maantieteellinen kattavuus
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: Maantieteellinen kattavuus
+source_next_release_2: Seuraava julkaisu
+source_next_release_3: Seuraava julkaisu
+source_next_release_4: Seuraava julkaisu
+source_next_release_5: Seuraava julkaisu
+source_next_release_6: Seuraava julkaisu
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: Organisaatio
+source_organisation_2: Organisaatio
+source_organisation_3: Organisaatio
+source_organisation_4: Organisaatio
+source_organisation_5: Organisaatio
+source_organisation_6: Organisaatio
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: Muita tietoja
+source_other_info_2: Muita tietoja
+source_other_info_3: Muita tietoja
+source_other_info_4: Muita tietoja
+source_other_info_5: Muita tietoja
+source_other_info_6: Muita tietoja
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: Jaksoisuus
+source_periodicity_2: Jaksoisuus
+source_periodicity_3: Jaksoisuus
+source_periodicity_4: Jaksoisuus
+source_periodicity_5: Jaksoisuus
+source_periodicity_6: Jaksoisuus
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: Julkaisupäivä
+source_release_date_2: Julkaisupäivä
+source_release_date_3: Julkaisupäivä
+source_release_date_4: Julkaisupäivä
+source_release_date_5: Julkaisupäivä
+source_release_date_6: Julkaisupäivä
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: Tilastollinen luokitus
+source_statistical_classification_2: Tilastollinen luokitus
+source_statistical_classification_3: Tilastollinen luokitus
+source_statistical_classification_4: Tilastollinen luokitus
+source_statistical_classification_5: Tilastollinen luokitus
+source_statistical_classification_6: Tilastollinen luokitus
+source_url_1: Linkki tietolähteeseen
+source_url_2: Linkki tietolähteeseen
+source_url_3: Linkki tietolähteeseen
+source_url_4: Linkki tietolähteeseen
+source_url_5: Linkki tietolähteeseen
+source_url_6: Linkki tietolähteeseen
+# A label describing information - the overall SDG target associated with a particular indicator
+target: Tavoitteen nimi
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: Tavoitteen numero
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: UN custodian agency
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: YK:n määrittelemä taso
+quality_assurance: Laatuvakuutus
+international_comparability: Vertailukelpoisuus kansainvälisten tietojen/standardien kanssa
+comments_limitations: Kommentit ja rajoitukset
+rationale_interpretation: Rationaalinen ja tulkinta
+rational_interpretation: Rationaalinen ja tulkinta
+copyright: Tekijänoikeus
+# Fields from the SDMX MSD.
+SDG_INDICATOR_INFO: Indikaattorin tieto
+SDG_GOAL: Tavoite
+SDG_TARGET: Alatavoite
+SDG_INDICATOR: Indikaattori
+SDG_SERIES_DESCR: Sarja
+META_LAST_UPDATE: Metadatan päivitys
+SDG_RELATED_INDICATORS: Asiaan liittyvät indikaattorit
+SDG_CUSTODIAN_AGENCIES: Kansainväliset organisaatiot, jotka vastaavat maailmanlaajuisesta seurannasta
+CONTACT: Tietojen toimittaja
+CONTACT_ORGANISATION: Organisaatio
+CONTACT_NAME: Yhteyshenkilö
+ORGANISATION_UNIT: Organisaatioyksikkö
+CONTACT_FUNCT: Yhteyshenkilön tehtävä
+CONTACT_PHONE: Puhelinnumero
+CONTACT_MAIL: Sähköposti
+CONTACT_EMAIL: Sähköposti
+IND_DEF_CON_CLASS: Määritelmät, käsitteet ja luokitukset
+STAT_CONC_DEF: Määritelmät ja käsitteet
+UNIT_MEASURE: Mittayksikkö
+CLASS_SYSTEM: Luokitukset
+SRC_TYPE_COLL_METHOD: Tietolähteen tyyppi ja keruutapa
+SOURCE_TYPE: Tietolähteet
+COLL_METHOD: Tiedonkeruumenetelmä
+FREQ_COLL: Tiedonkeruukalenteri
+REL_CAL_POLICY: Tiedonantokalenteri
+DATA_SOURCE: Tietojen tarjoajat
+COMPILING_ORG: Tietojen kokoajat
+INST_MANDATE: Institutionaalinen mandaatti
+OTHER_METHOD: Muita metodologisia huomioita
+RATIONALE: Perustelut
+REC_USE_LIM: Kommentti ja rajoitukset
+DATA_COMP: Laskentamenetelmä
+DATA_VALIDATION: Validointi
+ADJUSTMENT: Säädöt
+IMPUTATION: Puuttuvien arvojen käsittely (i) maatasolla ja (ii) aluetasolla
+REG_AGG: Alueelliset aggregaatiot
+DOC_METHOD: Maiden käytettävissä olevat menetelmät ja ohjeet tietojen keräämiseksi kansallisella tasolla
+QUALITY_MGMNT: Laadunhallinta
+QUALITY_ASSURE: Laatuvakuutus
+QUALITY_ASSMNT: Laadun arviointi
+COVERAGE: Tietojen saatavuus ja erittely
+COMPARABILITY: Vertailukelpoisuus/poikkeama kansainvälisistä standardeista
+OTHER_DOC: Viitteet ja dokumentaatio

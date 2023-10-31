@@ -49,7 +49,7 @@ indicator_name: global_indicators.9-2-1-title
 # required
 indicator_number: '9.2.1'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: units.total
 # optional
 page_content: ''
 # optional

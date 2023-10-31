@@ -1,0 +1,26 @@
+reporting_status: Raportoinnon tila
+overall_reporting_status: Raportoinnin tila yleensä ottaen
+reported_online: Raportoitu netissä
+in_progress: Käynnissä
+exploring_data_sources: Tietolähteiden tutkiminen
+not_applicable: Ei sovellettavissa
+no_data_available: Tietoja ei ole saatavilla
+# Describing a section where the status is reported for each goal
+status_by_goal: Tila tavoitteen mukaan
+status_by_field: Tila %field mukaan
+disaggregation_status: Erittelytila
+disaggregation_status_overall: Yleinen erittelytila
+disaggregation_status_complete: Täysin eritelty
+disaggregation_status_inprogress: Osittain eritelty
+disaggregation_status_notstarted: Ei eritelty
+disaggregation_status_notapplicable: Out of scope
+disaggregation_status_by_field: Erittely %field
+not_specified: Ei määritelty
+reported: Raportoitu
+description: Raportoinnin tila antaa yleiskuvan siitä, miten paljon kestävän kehityksen tavoitteiden (SDG) dataa Savonia raportoi.
+progress_status: Edistymisen tila
+progress_not_available: Ei saatavilla
+progress_challenges_remain: Haasteita on vielä
+progress_approaching_target: Lähestymässä alatavoitetta
+progress_target_achieved: Alatavoite saavutettu
+progress_help: Miten pärjäämme vuoden 2030 tavoitteessa?

@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -29,7 +29,7 @@ UNIT_MEASURE: >-
 
 # optional
 DATA_COMP: >-
-  The report is unavailable
+  metadata_values.9_1_3_data_comp
 
 # optional
 COVERAGE: >-

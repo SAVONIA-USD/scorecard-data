@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -25,10 +25,10 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  Unavailable
+  units.unavailable
 
 DATA_COMP: >-
-  Food waste index, %
+  metadata_values.2_4_2_data_comp
 
 # optional
 COVERAGE: >-

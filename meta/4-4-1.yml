@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -26,9 +26,10 @@ STAT_CONC_DEF: |
 # optional
 UNIT_MEASURE: >-
   units.total_number
+
 # optional
 DATA_COMP: >-
-  Number of graduates who start or continue as entrepreneurs after one year of graduation
+  metadata_values.4_4_1_data_comp
 
 # optional
 COVERAGE: >-

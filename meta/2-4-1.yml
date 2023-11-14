@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -28,7 +28,7 @@ UNIT_MEASURE: >-
   units.co2
 
 DATA_COMP: >-
-  CO2 emission from agriculture in the North Savo region
+  metadata_values.2_4_1_data_comp
 
 # optional
 COVERAGE: >-

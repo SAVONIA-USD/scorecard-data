@@ -55,6 +55,10 @@ loading_map: Ladataan karttaa
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: Korkeakoulun Metadata
 national_metadata_blurb: Tämä taulukko sisältää metatiedot korkeakoulun määrittelemään indikaattoriin.
+# A button that displays the related targets of a particular indicator
+related_targets: Muut tavoitteet
+related_targets_blurb: Indikaattoriin liityvät muut alatavoitteet
+related_targets_placeholder: Tähän indikaattoriin ei liity muita tavoitteita
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Globaali Metadata
 global_metadata_blurb: Tämä taulukko sisältää tietoja SDG-indikaattoreiden metatiedoista

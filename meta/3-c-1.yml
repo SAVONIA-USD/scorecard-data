@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -28,7 +28,7 @@ UNIT_MEASURE: >-
   units.total_number
 
 DATA_COMP: >-
-  Number of students and staff taking part into Sykettä sport services
+  metadata_values.3_c_1_data_comp
 
 # optional
 COVERAGE: >-

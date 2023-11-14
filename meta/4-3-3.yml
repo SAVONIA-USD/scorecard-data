@@ -15,7 +15,7 @@ SDG_INDICATOR_INFO: >-
 
 # optional
 CONTACT_ORGANISATION: >-
-  Savonia University of Applied Sciences
+  metadata_values.savonia_official
 
 # optional
 ORGANISATION_UNIT: >-
@@ -29,7 +29,7 @@ UNIT_MEASURE: >-
 
 # optional
 DATA_COMP: >-
-  The share of those who completed their degree in a time corresponding to the scope of the degree out of all those who completed degree
+  metadata_values.4_3_3_data_comp
 
 # optional
 COVERAGE: >-

@@ -9,7 +9,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #4-3-4,complete,,,,units.total,units.total_number,bar
 #4-4-1,complete,,,,units.total,units.total_number,bar
 #4-4-2,complete,,,,units.total,units.total_number,bar
-#4-7-1,notstarted,,,,units.total,units.unavailable,bar
+#4-7-1,notstarted,,,,units.total,units.total_number,bar
 #9-1-1,notstarted,,,,units.total,units.total_number,bar
 #9-1-2,notstarted,,,,units.total,units.total_number,bar
 #9-1-3,notstarted,,,,units.total,units.total_number,bar

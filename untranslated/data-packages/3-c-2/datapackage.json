@@ -15,8 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #2-4-1,complete,,,,units.total,units.co2,bar
-#2-4-2,notstarted,,,,units.total,units.unavailable,bar
+#2-4-2,complete,,,,units.total,units.percentage,bar
 #3-c-1,complete,,,,units.total,units.total_number,bar
 #3-c-2,complete,,,,units.total,units.gptw_index,bar
 #4-3-1,complete,,,,units.total,units.total_number,bar
@@ -9,9 +9,9 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #4-3-4,complete,,,,units.total,units.total_number,bar
 #4-4-1,complete,,,,units.total,units.total_number,bar
 #4-4-2,complete,,,,units.total,units.total_number,bar
-#4-7-1,notstarted,,,,units.total,units.total_number,bar
-#9-1-1,notstarted,,,,units.total,units.total_number,bar
-#9-1-2,notstarted,,,,units.total,units.total_number,bar
-#9-1-3,notstarted,,,,units.total,units.total_number,bar
+#4-7-1,complete,,,,units.total,units.total_number,bar
+#9-1-1,complete,,,,units.total,units.total_number,bar
+#9-1-2,complete,,,,units.total,units.total_number,bar
+#9-1-3,complete,,,,units.total,units.total_number,bar
 #9-1-4,notstarted,,,,units.total,units.customer_satisfaction,bar
-#9-2-1,notstarted,,,,units.total,units.total_number,bar
+#9-2-1,complete,,,,units.total,units.total_number,bar

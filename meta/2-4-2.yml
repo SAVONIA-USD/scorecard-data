@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.unavailable
+  units.percentage
 
 DATA_COMP: >-
   metadata_values.2_4_2_data_comp
